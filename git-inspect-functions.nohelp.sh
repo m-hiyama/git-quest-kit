@@ -264,4 +264,4 @@ function g_help #-- ヘルプを表示します。
 
 G_HELP_MSG="Not defined."
 
-# makeにより、ここから下にヘルプテキストが追加される。
+#% makeにより、ここから下にヘルプテキストが追加される。
